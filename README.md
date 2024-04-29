@@ -4,7 +4,7 @@
 <H3>EX. NO.7</H3>
 <H3>DATE:</H3>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
- <BR>
+
 <h3>Algorithm:</h3>
 
 ### Step 1:
